@@ -33,48 +33,40 @@ namespace Arrays_and_Lists_Exercise_01_Answers
 
 
             // TODO: Declare and initialize an int array using ALL 5 of the different ways you are allowed to
-            // Use the methods you created below to print out the contents
 
 
 
             // TODO: Declare and initialize a string array using initializer syntax
-            // Use the method you created below to print out the contents
 
 
 
             // TODO: Declare and initialize a char array using initializer syntax
-            // Use the method you created below to print out the contents
 
 
 
             // TODO: Declare and initialize a bool array using initializer syntax
-            // Use the method you created below to print out the contents
 
 
 
             // TODO: Declare and initialize a list of strings using initializer syntax
-            // Use the method you created below to print out the contents
 
 
 
             // TODO: Declare and initialize a list of doubles using initializer syntax
-            // Use the method you created below to print out the contents
 
 
 
             // TODO: Declare and initialize a list of floats using initializer syntax
-            // Use the method you created below to print out the contents
 
 
 
             // TODO: Declare and initialize a list of chars using initializer syntax
-            // Use the method you created below to print out the contents
 
 
 
         }
 
-        // TODO: Create a method that accepts a list of ints, removes the first item from the list, and then prints the entire list to the console
+        // TODO: Create a method called PrintNums() that accepts a list of ints, removes the first item from the list, and then prints the entire list to the console
 
 
 
@@ -82,11 +74,11 @@ namespace Arrays_and_Lists_Exercise_01_Answers
 
 
 
-        // TODO: Create an overload of the above method that accepts a list of strings, removes the first item from the list, and then prints the entire list to the console
+        // TODO: Create an overload of the above method that accepts a list of doubles, removes the first item from the list, and then prints the entire list to the console
 
 
 
-        // TODO: Create an overload of the above method that accepts a list of strings, removes the first item from the list, and then prints the entire list to the console
+        // TODO: Create an overload of the above method that accepts a list of floats, removes the first item from the list, and then prints the entire list to the console
 
 
 
